@@ -80,7 +80,7 @@ a { color: inherit; text-decoration: none; }
     letter-spacing: .25em;
     color: var(--red);
     font-weight: 500;
-    text-transform: uppercase;
+    text-transform: ;
 }
 
 .brand-title {
@@ -91,7 +91,7 @@ a { color: inherit; text-decoration: none; }
     line-height: 1.15;
 }
 .brand-title em {
-    font-style: italic;
+    font-style:;
     color: var(--red);
 }
 
